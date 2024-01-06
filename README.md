@@ -25,8 +25,7 @@ http://localhost:3000
 - Ant Design 5.0
 - Antd icons
 
-**Report bug?**
-Email me:
+**Need help?**
 
 ```
 molinadannrussell.dev@gmail.com
