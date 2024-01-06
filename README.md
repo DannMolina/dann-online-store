@@ -27,6 +27,8 @@ http://localhost:3000
 
 **Need help?**
 
+Email me:
+
 ```
 molinadannrussell.dev@gmail.com
 ```
