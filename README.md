@@ -22,5 +22,12 @@ http://localhost:3000
 
 - Reactjs
 - TypeScript
-- Antd
+- Ant Design 5.0
 - Antd icons
+
+**Report bug?**
+Email me:
+
+```
+molinadannrussell.dev@gmail.com
+```
