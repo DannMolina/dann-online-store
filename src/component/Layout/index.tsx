@@ -1,6 +1,5 @@
 import React from 'react';
 import { Layout, Menu, Space, Tag, theme } from 'antd';
-
 import { getCategories } from '../../mock/getCategories';
 import { AppLogo } from '../Logo/Logo';
 import { ProductFilterContext } from '../../provider/ProductFilter/ProductFilterProvider';

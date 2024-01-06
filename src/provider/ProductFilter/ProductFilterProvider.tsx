@@ -1,4 +1,4 @@
-import React, { ReactNode, createContext, useState } from "react";
+import { ReactNode, createContext, useState } from "react";
 import { IProductFilterContext } from "./types";
 
 // Create a new context

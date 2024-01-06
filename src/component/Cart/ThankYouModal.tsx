@@ -29,7 +29,6 @@ const ThankYouModal = ({ modalVisible, setModalVisible }: IThankYouModal) => {
         textAlign: 'center'
       }}>
       </div>
-      {/* <p style={{ fontSize: '16px', margin: '0' }}>Thank You for Purchasing!</p> */}
     </Modal>
   );
 };
